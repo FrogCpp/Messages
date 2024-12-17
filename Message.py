@@ -7,3 +7,4 @@ while True:
   print(a)
   if i >= 100:
     Work = False
+    break
