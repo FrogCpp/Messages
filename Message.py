@@ -1,5 +1,8 @@
-def F(n):
-  for i in range(n):
-    print(i)
-
-F(5)
+i = 0
+a = []
+while True:
+  a.append(i)
+  i += 1
+  print(a)
+  if i == 100:
+    Work = False
