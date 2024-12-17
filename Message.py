@@ -1,3 +1,4 @@
-global pause
-pause = 1000
-print('a')
+global pause, Work
+pause = 1
+print('Hello world')
+Work = False
