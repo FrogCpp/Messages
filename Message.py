@@ -1,2 +1,2 @@
-global Work
-Work = False
+global pause
+pause = 50
